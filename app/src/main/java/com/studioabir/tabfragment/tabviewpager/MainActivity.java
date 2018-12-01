@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+
     void setUpViewPager(ViewPager vp)
     {
         ViewPagerAdapter vpa = new ViewPagerAdapter(getSupportFragmentManager());
